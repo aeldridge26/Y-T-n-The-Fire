@@ -14,12 +14,10 @@ credits: true
 
 ## About the Collection
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
+This collection is made up of pictures of a papercut rice paper scroll I made that visually tells the story of my time spent in the wilds of Wales. The piece is called Y Tân which is Welsh for ‘the fire.’ The name is inspired by a Welsh folk song I enjoy called Tân yn Llyn. It is a song about Welsh resistance to English rule. Since dragons are my theme for this scroll, and dragons have a special significance to Wales, ‘the fire’ seems like a perfect title. 
 
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
 
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
+
 
 For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
 
