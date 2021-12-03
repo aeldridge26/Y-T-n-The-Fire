@@ -14,7 +14,7 @@ credits: true
 
 ## About the Collection
 
-This collection is made up of pictures of a papercut rice paper scroll I made that visually tells the story of my time spent in the wilds of Wales. The piece is called Y Tân which is Welsh for ‘the fire.’ The name is inspired by a Welsh folk song I enjoy called Tân yn Llyn. It is a song about Welsh resistance to English rule. Since dragons are my theme for this scroll, and dragons have a special significance to Wales, ‘the fire’ seems like a perfect title. 
+This collection is made up of pictures of various papercuts that are part of a long rice paper scroll that visually depicts the story of the artists' time spent in the wilds of Wales. The piece is called Y Tân which is Welsh for ‘the fire.’ The name is inspired by a Welsh folk song called Tân yn Llyn. It is a song about Welsh resistance to English rule. Since dragons are the theme for this scroll, and dragons have a special significance to Wales, ‘the fire’ is the perfect title. 
 
 
 
